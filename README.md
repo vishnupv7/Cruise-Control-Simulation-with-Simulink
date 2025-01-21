@@ -16,16 +16,6 @@ The vehicle dynamics are modeled using the following equation:
 - **v**: Vehicle speed (m/s).
 
 
-CruiseControl_Simulation
-├── README.md                  # Project overview and instructions
-├── TestReport.pdf             # Detailed testing and results
-├── Models
-│   └── CruiseControl_FinalModel.slx  # Final Simulink model
-├── Outputs
-│   ├── FlatRoad.png           # Graph for flat road scenario
-│   ├── Uphill.png             # Graph for uphill scenario
-│   └── Downhill.png           # Graph for downhill scenario
-└── LICENSE (Optional)         
 
 
 ## Model Description
