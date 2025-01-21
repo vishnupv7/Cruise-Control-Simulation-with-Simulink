@@ -15,6 +15,7 @@ The vehicle dynamics are modeled using the following equation:
 - **k**: Drag coefficient (resistance due to air or terrain).
 - **v**: Vehicle speed (m/s).
 
+
 CruiseControl_Simulation
 ├── README.md                  # Project overview and instructions
 ├── TestReport.pdf             # Detailed testing and results
